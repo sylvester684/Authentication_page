@@ -1,34 +1,4 @@
-Here's the README content in code form. You can copy and paste it directly into your README file:
 
-```markdown
-# Authentication Page Template
-
-This repository contains a React-based authentication page template, built with modern tools such as Tailwind CSS, Supabase, and Vite. It includes functionality for user login, registration, and password confirmation.
-
----
-
-## Features
-
-- **User Authentication**: Supports login and signup functionality using Supabase as the backend.
-- **Modern Design**: Built with Tailwind CSS for a sleek, responsive UI.
-- **State Management**: Utilizes React's hooks for managing application state.
-- **Password Visibility Toggle**: Users can show or hide their passwords during input.
-- **Toast Notifications**: Provides feedback to users using `react-hot-toast`.
-
----
-
-## Prerequisites
-
-To run this project, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v16 or later)
-- [npm](https://www.npmjs.com/) (comes with Node.js) or [yarn](https://yarnpkg.com/)
-
-Additionally, you need a Supabase account. Set up a new project in your Supabase account and use the project's URL and anonymous key in the environment variables.
-
----
-
-## Installation
 
 1. Clone the repository:
    ```bash
